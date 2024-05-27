@@ -37,20 +37,20 @@ Tomato Math Game is a desktop application designed to make learning math fun and
    git clone https://github.com/your-username/TomatoMathGame.git
    cd TomatoMathGame
 
-2.**Set up MySQL Database:**
+2. **Set up MySQL Database:**
 
 - Install MySQL Server if not already installed.
 - Create a new database named tomato_math_game.
 - Run the SQL script provided in the database folder to create necessary tables.
 
-3.**Configure the application:**
+3. **Configure the application:**
 
 - Open the project in NetBeans.
 - Configure the database connection in the application properties.
 
-4.**Run the application:**
+4. **Run the application:**
 
 - Build and run the project from NetBeans.
 
-### Usage
+## Usage
 Upon launching the application, players can create or log into their profiles. In Easy mode, they solve equations without any restrictions. In Campaign mode, they face time limits and limited wrong answers, progressing through levels as they correctly solve equations. Players can view their scores and compare them on the leaderboard.
